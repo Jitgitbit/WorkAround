@@ -3,3 +3,4 @@ I created the projects on Github, opened in Github desktop, and opened through G
 I also used ESLint, but that doesn't seem to be a problem.
 There is a problem though, communicating between the relevant JS files, because as soon as I export or import, files are not found.
 Yet the syntax is correct. To be solved (still a beginner).
+Finally! it works!
