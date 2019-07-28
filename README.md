@@ -4,3 +4,5 @@ I also used ESLint, but that doesn't seem to be a problem.
 There is a problem though, communicating between the relevant JS files, because as soon as I export or import, files are not found.
 Yet the syntax is correct. To be solved (still a beginner).
 Finally! it works!
+The problem was that Node.js can't interpret ES6 export and import syntax!
+(And in MessageMixerBis project, I also made a typo, on top of the ES6<->Node.js issue)
