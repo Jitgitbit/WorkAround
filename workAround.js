@@ -1,5 +1,4 @@
-import Employee from './employee';
-
+const Employee = require('./employee');
 function getEmployeeInformation(inputSalary) {
   Employee.salary = inputSalary;
   console.log('Cadre: ' + Employee.getCadre());

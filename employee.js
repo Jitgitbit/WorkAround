@@ -39,5 +39,4 @@ Employee.reimbursementEligibility = function() {
   }
   return totalBenefitsValue;
 }
-
-export default Employee;
+module.exports = Employee;
